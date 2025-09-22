@@ -1,2 +1,7 @@
 Hii 1.txt
+<<<<<<< HEAD
 New content added
+=======
+added new line"
+add for conflict
+>>>>>>> a8aa9a186a210e5171c1c525b9faf90650db1786
